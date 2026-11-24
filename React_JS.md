@@ -1,9 +1,4 @@
-# React JS: From the Problems Before React to a Reusable Article Website
-
-A beginner-friendly practical guide for students who already know **HTML, CSS, JavaScript, Python and MySQL**.
-
-> **Learning outcome:** Understand why React is used, install Node.js and npm, create a React project with Vite, understand the project structure, and build an article website using reusable components.
-
+# React JS
 ## Table of contents
 
 1. [Problems before React](#1-what-problems-did-developers-face-before-react)

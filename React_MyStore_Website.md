@@ -1,4 +1,4 @@
-# React Beginner Teaching Project: MyStore Website
+# React Project: MyStore Website
 
 ## 1. Project goal
 
@@ -94,7 +94,7 @@ src/
 
 ------------------------------------------------------------------------
 
-# 5. Code for every file
+# 5. Source Code
 
 ## File 1: `src/main.jsx`
 
